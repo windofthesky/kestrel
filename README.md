@@ -81,7 +81,7 @@ Downloading it
 --------------
 The latest development versions & branches are on github:
 
-- [http://gitub.com/robey/kestrel](https://github.com/twitter/kestrel)
+- [http://github.com/robey/kestrel](https://github.com/twitter/kestrel)
 
 
 Building it
