@@ -79,12 +79,7 @@ Kestrel is not:
 
 Downloading it
 --------------
-
-The latest release is always on the homepage here:
-
-- [http://robey.github.io/kestrel/](http://robey.github.io/kestrel/)
-
-Or the latest development versions & branches are on github:
+The latest development versions & branches are on github:
 
 - [http://gitub.com/robey/kestrel](https://github.com/twitter/kestrel)
 
